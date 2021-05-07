@@ -1,0 +1,8 @@
+Instrucciones de edición
+
+13.0 Introducción
+13.1 Las secciones del Profiler
+13.2 Cómo crear un Data Collector personalizado
+13.3 Cómo acceder a los datos del profiler programáticamente
+13.4 Cómo deshabilitar el profiler en una acción concreta
+13.5 Cómo cambiar la ubicación del Profiler Storage

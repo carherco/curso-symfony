@@ -1,0 +1,13 @@
+Instrucciones de edición
+------------------------
+
+20.0 Introducción
+20.1 Uso del Serializer
+20.2 Cómo manejar referencias circulares
+20.3 Cómo manejar la profundidad de la serialización
+20.4 Normalizers
+20.5 Encoders
+20.6 Cómo configurar qué atributos se serializan
+20.7 Cómo convertir nombres de propiedades al serializar y des-serializar
+
+Los apuntes del 20.0.md incluyen una imagen.

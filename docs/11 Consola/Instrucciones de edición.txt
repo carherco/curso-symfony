@@ -1,0 +1,12 @@
+Instrucciones de edición
+
+Los comandos de cada tema (doctrine, servicios, eventos...) se van viendo dentro de cada tema, con lo que este tema al final, se reduce mucho en número de secciones.
+
+Al final queda como sigue:
+
+11.0 Introducción
+11.1 Cómo crear comandos personalizados
+11.2 Los console Helpers
+
+El 11.1 pasa de 20 minutos pero no le veo sentido a trocearlo. Creo que de todas formas resulta entretenido. No sé, ya me decís.
+

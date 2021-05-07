@@ -1,0 +1,13 @@
+Instrucciones de edición
+========================
+
+Este tema estaba originalmente más atrás, pero lo necesito antes de ver los formularios. Así que se convierte en el tema 9.
+
+Cambio de orden en los puntos y se añade un punto nuevo. El índice queda como sigue:
+
+9.1 El Event Dispatcher
+9.2 Creación de event listeners
+9.3 Creación de event subscribers
+9.4 Eventos del Kernel de Symfony
+9.5 Consideraciones finales
+

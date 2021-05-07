@@ -1,0 +1,5 @@
+Corrección del índice
+
+- El 6.2 está dividido en 6.2 La sesión y 6.3 los mensajes flash
+- Los siguientes vídeos por lo tanto llevan uno más en la numeración.
+

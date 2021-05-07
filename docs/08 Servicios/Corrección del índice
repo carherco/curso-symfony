@@ -1,0 +1,10 @@
+Corrección del índice
+=====================
+
+Este tema antes era el 9, ahora es el 8.
+
+Solamente hay 3 puntos:
+- El patrón de inyección de dependencias
+- El service container
+- Creación y configuración de servicios
+

@@ -1,0 +1,9 @@
+Ejercicios:
+
+Enviar un fichero de texto indicando qué bundles instala flex en los siguientes casos:
+
+- admin
+- log
+- rest
+- serializer
+- jwtauth

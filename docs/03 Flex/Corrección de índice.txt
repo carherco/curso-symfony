@@ -1,0 +1,8 @@
+Corrección de índice:
+
+3.1 Cómo funciona Flex
+3.2 Las Recipes
+3.3 Actualizar aplicaciones existentes para que utilicen Flex
+
+(Si prefieres unir los vídeos 3.1.mp4 y 3.2.mp4 en uno solo, también  vale)
+

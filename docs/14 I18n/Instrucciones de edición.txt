@@ -1,0 +1,11 @@
+Instrucciones de edición
+
+14.0 Instalación y configuración
+14.1 El proceso de traducción
+14.2 Message Placeholders
+14.3 Manejo de plurales
+14.4 Los ficheros de traducciones
+14.5 Manejo de la localización del usuario
+14.6 Traducción del contenido de la base de datos
+14.7 Traducción de mensajes de validación
+14.8 Depuración de traducciones

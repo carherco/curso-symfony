@@ -1,0 +1,13 @@
+Instrucciones de edición
+------------------------
+
+19.0 Introducción
+19.1 Cómo escribir mensajes de log
+19.2 Configuración
+19.3 El manejador especial fingers_crossed
+19.4 Configuración de log con ficheros rotativos
+19.5 Cómo configurar Monolog para enviar correos
+19.6 El manejador especial group
+19.7 Configuración de canales
+19.8 Cómo deshabilitar la precisión de microsegundos para ganar rapidez
+

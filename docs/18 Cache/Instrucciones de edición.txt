@@ -1,0 +1,9 @@
+Instrucciones de edición
+========================
+
+18.0 Introducción
+18.1 El comando cache:clear
+18.2 Caché programada
+18.3 "More Advanced Caching" (PSR-6)
+
+

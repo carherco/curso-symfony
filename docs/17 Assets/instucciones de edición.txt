@@ -1,0 +1,14 @@
+Instucciones de edición
+=======================
+
+No hay apuntes en el vídeo de introducción
+
+17.0 Introducción
+17.1 Instalación de WebPack Encore
+17.2 Configuración
+17.3 Manejo de archivos Sass y Less
+17.4 Source Maps
+17.5 Manejo de archivos TypeScript
+17.6 Versionado de assets
+17.7 CDNs
+17.8 Cómo pasar información de Twig a JavaScript

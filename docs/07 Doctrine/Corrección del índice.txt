@@ -1,0 +1,9 @@
+Corrección del índice
+
+7.3 debe ser El lenguaje de consultas DQL
+7.4 debe ser El Objeto Doctrine Query Builder
+
+7.7 Se elimina. Si en el futuro decidimos hacer minicursos relacionados con bundles interesantes, este podría ser uno de ellos.
+
+El último tema pasa a ser por lo tanto 7.7 Ingeniería inversa con Doctrine
+

@@ -1,0 +1,9 @@
+Instrucciones de edición
+========================
+
+21.0 Introducción
+21.1 Creación de un Workflow
+21.2 Cómo trabajar con Workflows
+21.3 Funciones de Twig y ejemplo práctico
+21.4 Eventos
+21.5 Cómo depurar un Workflow

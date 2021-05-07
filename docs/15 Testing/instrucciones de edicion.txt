@@ -1,0 +1,14 @@
+instrucciones de edicion
+
+
+15.0 Introducción
+15.1 Tests Unitarios
+15.2 Tests funcionales
+15.3 El objeto Test Client
+15.4 El objeto Crawler
+15.5 Creación de Fixtures
+15.6 Testeo de comandos de consola
+15.7 Testeo de repositorios de Doctrine
+
+
+

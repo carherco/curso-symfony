@@ -1,0 +1,8 @@
+
+
+16.0 Introducción
+16.1 Configuración
+16.2 Envío de mails
+16.3 Cómo trabajar con emails durante el desarrollo
+16.4 Cómo testear si un email ha sido enviado
+16.5 Cómo configurar varios mailers 

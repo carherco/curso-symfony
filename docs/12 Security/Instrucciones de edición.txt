@@ -1,0 +1,15 @@
+Instrucciones de edición
+
+Los títulos exactos de las secciones son:
+
+12.0 Introducción
+12.1 Autenticación
+12.2 Roles
+12.3 Autorización
+12.4 Acceso al objeto User
+12.5 Las anotaciones @IsGranted y @Security
+12.6 Los Voters
+12.7 Cómo hacer logout
+
+Vídeo 12.1 hasta el segundo 8:12
+Vídeo 12.1.bis he repetido la última frase de 12.1 por si te facilita el trabajo para unirlos.

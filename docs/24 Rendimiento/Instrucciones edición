@@ -1,0 +1,9 @@
+Instrucciones edición
+=====================
+
+24.0 Introducción
+24.1 Instalar APCu Polyfill
+24.2 OPCache
+24.3 Configurar el PHP realpath Cache
+24.4 Optimizar Composer Autoloader
+
