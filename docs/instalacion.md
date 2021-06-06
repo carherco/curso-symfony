@@ -20,6 +20,9 @@
 
 > php -S localhost:8000 -t public/
 
+## Documentación adicional
+
+https://symfony.com/doc/current/setup.html
 ## Ejercicio
 
 ### Enunciado

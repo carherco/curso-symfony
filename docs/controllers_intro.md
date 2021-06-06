@@ -2,7 +2,7 @@
 
 Los **Controllers** o Controladores son los puntos de entrada a nuestra aplicación.
 
-Físicamente son clases que extienden de la clase *Symfony\Bundle\FrameworkBundle\Controller\AbstractController*.
+Físicamente son clases que opcionalmente pueden extender de la clase *Symfony\Bundle\FrameworkBundle\Controller\AbstractController*.
 
 Un controlador tendrá uno o más métodos llamados **Actions** o Acciones cuya misión será recibir una petición y generar una respuesta.
 

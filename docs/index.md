@@ -10,28 +10,72 @@
 
 - [Introducción a Controllers](./controllers_intro.md)
 - [Introducción al Routing](./routing_intro.md)
-- [Introducción a Twig](./twig_intro.md)
-- Ejercicio: Crear varias páginas enlazadas con un menú
 
+### Ejercicio
+
+Creación de 3 rutas: 
+  
+  - /home
+  - /login
+  - /about-us
+
+Cada una de estas rutas debe estar asociadas a una acción y responder con un h1 básico.
+
+## Creación de vistas (Twig)
+
+- [Introducción a Twig](./twig_intro.md)
+
+### Ejercicio
+
+Crear 1 plantilla de Twig para cada una de las páginas del ejercicio anterior.
+
+Enlazar las páginas con un menú.
+
+Inluir algún fichero de css en las páginas (o algún framework como bootstrap, foundation,  tailwind...)
 
 ## Introducción al profiler y a los entornos
+
+## La consola de comandos
+
+- El comando make:controller
+
+### Ejercicio
+
+- Usar make:controller para crear un nuevo controlador que tenga la ruta /catalogo
+
+- Enlazar esta nueva página al menú
 
 ## Twig
 
 - Variables. Acceso a atributos con (.)
 - Variables globales
+- Estructuras de control (if, for…)
+- Comentarios
+- Operadores
 - set
+
+
+https://twig.symfony.com/doc/3.x/templates.html
+
+### Ejercicio Twig 1
+
+- En la página /catálogo, mostrar la lista de fondos del catálogo de la biblioteca.
+
+## Más Twig
+
 - filtros
 - funciones
 - Named arguments
-- Estructuras de control (if, for…)
-- Comentarios
 - include
 - extends y block
-- html escaping
-- Operadores
 
-https://twig.symfony.com/doc/3.x/templates.html
+### Ejemplo
+
+Crear una nueva página de ejemplo de herencia de plantillas.
+
+### Ejercicio Twig 2
+
+Usar la herencia de plantillas con las páginas actuales de la aplicación.
 
 ## Acceso a base de datos. Doctrine.
 
@@ -39,11 +83,26 @@ https://twig.symfony.com/doc/3.x/templates.html
 - Entity Manager
 - Repository
 - Entidades relacionadas
+
+### Ejercicios
+
+- Crear entidades Fondo, Autor, Editorial y Categoría relacionándolas entre ellas.
+
+- Crear datos en la base de datos y mostrar el listado de catálogo.
+
+- Inspeccionar las consultas en el profiler.
+
+## Más doctrine
+
 - DQL y Query Builder
 - Native SQL
 - Ingeniería inversa
 - ArrayCollection
 - El problema de las N+1 queries
+
+### Ejercicio Doctrine Problema N+1
+
+Arreglar el problema de las N+1 queries en el listado del catálogo.
 
 ## Instalación de Bundles
 
@@ -112,6 +171,7 @@ https://twig.symfony.com/doc/3.x/templates.html
 
 ## Creación de APIs REST con Symfony
 
+- Creación de proyecto de tipo skeleton (composer create-project symfony/skeleton my-project)
 - JsonResponse
 - LexitJwtBundle
 
